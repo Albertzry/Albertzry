@@ -1,4 +1,5 @@
-👋 Hi, I’m @Albertzry,a student now study in UESTC,I majored in computer science and technology.
+#👋 Hi, I’m @Albertzry
+##I am a student now study in UESTC,majored in computer science and technology.
 
 
 <!---
