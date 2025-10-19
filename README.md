@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @Albertzry
-I am a student now study in UESTC,majored in computer science and technology.
+I am a student now study in UESTC,majored in Computer Science and Technology.
+
+Now I'm joint-training at NUSRI(CQ), majoring in Computer Engineering.
 
 Worked as an intern development engineer at Huawei Technologies Co., Ltd
 
