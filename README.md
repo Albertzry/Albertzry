@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Zhu R.Y.
-I am a student now study in UESTC,majored in Computer Science and Technology.
+I am a student now study in UESTC,majoring in Computer Science and Technology.
 
 Now I'm joint-training at NUSRI(CQ), majoring in Computer Engineering.
 
