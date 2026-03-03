@@ -1,9 +1,12 @@
 # 👋 Hi, I’m Zhu R.Y.
-I am a student now study in UESTC,majoring in Computer Science and Technology.
 
-Now I'm joint-training at NUSRI(CQ), majoring in Computer Engineering.
+🎓 I am currently studying at **UESTC**, majoring in **Computer Science and Technology**.
 
-Worked as an intern development engineer at Huawei Technologies Co., Ltd.
+📚 I am now in joint training at **NUSRI (CQ)**, majoring in **Computer Engineering**.
+
+💼 I have worked as an intern development engineer at **Huawei Technologies Co., Ltd.**
+
+## 🚀 Tech Snapshot
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albertzry&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
