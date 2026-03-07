@@ -7,9 +7,9 @@
 💼 I have worked as an intern development engineer at **Huawei Technologies Co., Ltd.**
 
 ## 🚀 Tech Snapshot
-![Stats](./profile/stats.svg)
+
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 <!---
 Albertzry/Albertzry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
