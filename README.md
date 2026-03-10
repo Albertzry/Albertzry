@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zhu R.Y.
+# 👋 Hi, I’m Albert R. Zhu
 
 🎓 I am currently studying at **UESTC**, majoring in **Computer Science and Technology**.
 
