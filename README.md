@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Albert R. Zhu
 
-🎓 I am currently studying at **UESTC**, majoring in **Computer Science and Technology**.
+🎓 I am currently studying at **UESTC**, majoring in **Computer Science and Technology**, and minoring in **Finance**.
 
 📚 I am now in joint training at **NUSRI (CQ)**, majoring in **Computer Engineering**.
 
