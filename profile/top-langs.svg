@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="206.06"
+          width="206.07"
           height="8"
           fill="#3572A5"
         />
@@ -138,7 +138,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="206.06"
+          x="206.07"
           y="0"
           width="20.67"
           height="8"
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="226.73000000000002"
+          x="226.74"
           y="0"
           width="17.9"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="234.63000000000002"
+          x="234.64000000000001"
           y="0"
           width="16.27"
           height="8"
@@ -168,7 +168,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="240.90000000000003"
+          x="240.91000000000003"
           y="0"
           width="15.059999999999999"
           height="8"
@@ -178,7 +178,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="245.96000000000004"
+          x="245.97000000000003"
           y="0"
           width="14.030000000000001"
           height="8"
@@ -219,7 +219,7 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 2.03%
+        Swift 2.02%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
