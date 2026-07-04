@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Albert R. Zhu
 
-🎓 I am currently pursuing a Bachelor’s degree in **Computer Science and Technology** at **UESTC**, with a minor in **Finance**.
+🎓 I hold a Bachelor’s degree in **Computer Science and Technology** with a minor in **Finance** from **UESTC**.
 
-📚 I will be pursuing a Master’s degree in **Computer Engineering** at **NUS**.
+📚 I am currently pursuing my Master’s degree in **Computer Engineering** at **NUS**.
 
 
 💼 I have worked as an intern development engineer at **Huawei Technologies Co., Ltd.**
