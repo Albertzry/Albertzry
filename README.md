@@ -11,6 +11,7 @@
 
 ![Top Languages](./profile/top-langs.svg)
 
+I maintain a consistent routine of solving algorithmic problems on LeetCode to sharpen my problem-solving skills and strengthen my foundational knowledge in data structures and algorithms.
 
 <!---
 Albertzry/Albertzry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
